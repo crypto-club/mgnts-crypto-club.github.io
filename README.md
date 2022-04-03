@@ -1,11 +1,12 @@
 ## Welcome to MGNTS CRYPTO CLUB
 
-[KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) Many questions can be answered here!!!
+# Many questions can be answered here!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
-[CLICK THE LINK FOR THE NFT SITE](https://mgnts-crypto-club.github.io/nft/) PLEASE EXPLORE!!
+ # PLEASE EXPLORE!!
 
-[CLICK THE LINK FOR THE CRYPTO SITE](https://mgnts-crypto-club.github.io/) PLEASE EXPLORE!!
+[CLICK THE LINK FOR THE NFT SITE](https://mgnts-crypto-club.github.io/nft/) 
 
+[CLICK THE LINK FOR THE CRYPTO SITE](https://mgnts-crypto-club.github.io/)
 
 ### CRYPTO
 
