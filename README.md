@@ -1,4 +1,6 @@
-# MGNTS CRYPTO CLUB # 
+<h1 align="center">
+    <h1 # MGNTS CRYPTO CLUB # >
+</h1>
 
 ## CREATE KNOWLEDGE HERE!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
