@@ -1,6 +1,6 @@
 ## Welcome to MGNTS CRYPTO CLUB
 
-## Many questions can be answered here!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
+## CREATE KNOWLEDGE HERE!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
 ## PLEASE EXPLORE!!
 
@@ -19,9 +19,9 @@ Below is information on Crypto!
 
 Currently the bigest Crypto Currency's to keep watch on are:
 
-- # BTC
-- # ETH
-- # ETH
+# BTC
+# ETH
+# ETH
 
 
 ```
