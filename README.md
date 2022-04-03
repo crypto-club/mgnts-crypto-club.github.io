@@ -11,6 +11,8 @@
 
 Below is information on Crypto!
 
+![alt text](https://github.com/mgnts-crypto-club/mgnts-crypto-club.github.io/blob/main/image1.png?raw=true)
+
 ```markdown
 CRYPTO
 
