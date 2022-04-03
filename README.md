@@ -1,19 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to MGNTS CRYPTO CLUB
 
-You can use the [editor on GitHub](https://github.com/mgnts-crypto-club/mgnts-crypto-club.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[We are here to spread Knowledge becase, KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) Many questions can be answered here!!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[CLICK THE LINK FOR THE NFT SITE](https://mgnts-crypto-club.github.io/nft/) PLEASE EXPLORE!!
 
-### Markdown
+[CLICK THE LINK FOR THE CRYPTO SITE](https://mgnts-crypto-club.github.io/) PLEASE EXPLORE!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### CRYPTO
+
+Below is information on Crypto!
 
 ```markdown
-Syntax highlighted code block
+CRYPTO
 
-# Header 1
-## Header 2
-### Header 3
+# BTC
+## ETH
+### ETH
 
 - Bulleted
 - List
