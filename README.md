@@ -1,4 +1,4 @@
-## Welcome to MGNTS CRYPTO CLUB
+# Welcome to MGNTS CRYPTO CLUB
 
 ## CREATE KNOWLEDGE HERE!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
