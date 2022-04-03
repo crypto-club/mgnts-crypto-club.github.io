@@ -1,6 +1,6 @@
 ## Welcome to MGNTS CRYPTO CLUB
 
-[We are here to spread Knowledge becase, KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) Many questions can be answered here!!!
+[KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) Many questions can be answered here!!!
 
 [CLICK THE LINK FOR THE NFT SITE](https://mgnts-crypto-club.github.io/nft/) PLEASE EXPLORE!!
 
