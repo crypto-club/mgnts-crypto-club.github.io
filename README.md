@@ -1,8 +1,8 @@
 ## Welcome to MGNTS CRYPTO CLUB
 
-# Many questions can be answered here!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
+## Many questions can be answered here!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
- # PLEASE EXPLORE!!
+## PLEASE EXPLORE!!
 
 [CLICK THE LINK FOR THE NFT SITE](https://mgnts-crypto-club.github.io/nft/) 
 
@@ -15,28 +15,17 @@ Below is information on Crypto!
 ![alt text](https://github.com/mgnts-crypto-club/mgnts-crypto-club.github.io/blob/main/image1.png?raw=true)
 
 ```markdown
-CRYPTO
+**CRYPTO**
 
-# BTC
-## ETH
-### ETH
+Currently the bigest Crypto Currency's to keep watch on are:
 
-- Bulleted
-- List
+- # BTC
+- # ETH
+- # ETH
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgnts-crypto-club/mgnts-crypto-club.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
